@@ -1,0 +1,5 @@
+FileParser/FileParser/bin
+FileParser/.vs
+FileParser/FileParser/obj
+FileParser/FileParser/Properties
+FileParser/*.sln
