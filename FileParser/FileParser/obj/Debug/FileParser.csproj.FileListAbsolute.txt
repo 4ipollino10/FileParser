@@ -1,8 +1,0 @@
-D:\work\CS_PROJECTS\FileParser\FileParser\bin\Debug\FileParser.exe.config
-D:\work\CS_PROJECTS\FileParser\FileParser\bin\Debug\FileParser.exe
-D:\work\CS_PROJECTS\FileParser\FileParser\bin\Debug\FileParser.pdb
-D:\work\CS_PROJECTS\FileParser\FileParser\obj\Debug\FileParser.csproj.AssemblyReference.cache
-D:\work\CS_PROJECTS\FileParser\FileParser\obj\Debug\FileParser.csproj.SuggestedBindingRedirects.cache
-D:\work\CS_PROJECTS\FileParser\FileParser\obj\Debug\FileParser.csproj.CoreCompileInputs.cache
-D:\work\CS_PROJECTS\FileParser\FileParser\obj\Debug\FileParser.exe
-D:\work\CS_PROJECTS\FileParser\FileParser\obj\Debug\FileParser.pdb
